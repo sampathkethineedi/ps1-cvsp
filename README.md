@@ -1,4 +1,4 @@
-# PS1 - Computer Vision and Speech Processing
+# PS1 - NLP, Computer Vision and Speech Processing
 
 ### Steps
 - Clone this repo
@@ -16,4 +16,5 @@
 - yolov3 (Object detection)
 - lid-cnn (Language Identification using CNN)
 - lid-lstm (Language Identification using LSTM)
+- nmt (Neural Machine Translation)
 - will add more as needed
