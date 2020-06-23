@@ -1,4 +1,4 @@
-# PS1 - Computer Vision and Speech Processing
+# PS1 - NLP, Computer Vision and Speech Processing
 
 ### Steps
 - Clone this repo
