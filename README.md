@@ -1,9 +1,9 @@
 # PS1 - NLP, Computer Vision and Speech Processing
 
-### Steps
+### Steps for NMT
 - Clone this repo
 - Switch to the specific branch
-- Add your code
+- Add your code inside a **folder with your name**
 - Push
 
 ### Please follow these guidlines before pushing code
