@@ -16,4 +16,5 @@
 - yolov3 (Object detection)
 - lid-cnn (Language Identification using CNN)
 - lid-lstm (Language Identification using LSTM)
+- nmt (Neural Machine Translation)
 - will add more as needed
