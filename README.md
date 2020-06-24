@@ -14,6 +14,7 @@
 
 ### Dataset Links
 - English-German parallel dataset - https://drive.google.com/drive/folders/1_JXXyvB-WcCh4yFYTvpHHuBnO5OxdZyt?usp=sharing
+- Urdu-English paralled dataset - https://drive.google.com/drive/folders/1-6lKGXlNJO5VjGaB1b8cqGIiRjLiWfrd?usp=sharing
 
 ### Branches
 - yolov3 (Object detection)
