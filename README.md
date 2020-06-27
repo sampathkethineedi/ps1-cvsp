@@ -23,7 +23,8 @@ python finalDemo.py --image_path assets/s3.png --model_name mono_640x192
 
 The output of the file will be a depth vs rgb image comparision and Open3D 3-D plot of the 2-D image.
 
-##Environment Specifications
+## Environment Specifications
+
 1. conda install pytorch=0.4.1 torchvision=0.2.1 -c pytorch
 2. pip install tensorboardX==1.4
 3. conda install opencv=3.3.1
