@@ -2,7 +2,7 @@
 
 This repositry is majorly based on the depth estimation GitHub repository 'monodepth2' by nianticlabs. Link to original repo:- https://github.com/nianticlabs/monodepth2 . 
 For perspective transformation i referred to the following GitHub repo. :-https://github.com/darylclimb/cvml_project/tree/master/projections/inverse_projection
-I tried to analyse the different models proposed by them and drawn comparision between in the documentation. An accuracy based comparision is available on the original Repo.
+I tried to analyse the different models proposed by them and drawn comparision between them in the documentation. An accuracy based comparision is available on the original Repo.
 
 I've added 2 files 'geometry_utils.py' and 'finalDemo.py' with some references to original repository. The 'finalDemo.py' can be used to test a single mono image to estimate the depth image ,setting the relative range of depth and plotting the 3-D point clouds using open3D library.
 
