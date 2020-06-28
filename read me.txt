@@ -1,0 +1,2 @@
+https://drive.google.com/drive/folders/12WfiNnP9fQFtiTxUwyImarmnJcS6NlA6?usp=sharing 
+The drive link contains the configuration file, Compressed data set, Trained Weights and few other files needed for training the model.
